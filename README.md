@@ -12,7 +12,7 @@ docker ps
 
 2.Входим в контейнер
 ```bash
-docker exec -it <<ИМЯ КОНТЕЙНЕРА>> /bin/sh
+docker exec -it ИМЯ_КОНТЕЙНЕРА /bin/sh
 ```
 
 3.Заходим в папку провайдеров
