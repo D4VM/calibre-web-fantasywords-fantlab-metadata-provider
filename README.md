@@ -19,6 +19,11 @@ docker exec -it ИМЯ_КОНТЕЙНЕРА /bin/sh
 ```bash
 cd /app/calibre-web/cps/metadata_provider
 ```
+3.1 Для Сalibre-Web-Automated
+```bash
+cd /app/calibre-web-automated/cps/metadata_provider
+```
+
 
 Fantasy-Worlds
 ```bash
